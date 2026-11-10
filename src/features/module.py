@@ -48,12 +48,14 @@ def get_features(word_list: list[Entry]) -> list[Entry]:
         
         # Get all features
         for feature_name, actual_module in functions.items():
+            # Get value
+            feature_value = value=actual_module.get_value(word=word.word)
+            
+            # Append to feature list
             feature_list.append(
                 Feature(
                     name=feature_name, 
-                    value=actual_module.get_value(
-                        word=word.word
-                        )
+                    value=feature_value,
                     )
                 )
         
