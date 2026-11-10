@@ -1,6 +1,6 @@
 <h1 align="center">Chescript</h1>
 <p align="center">
-    <img width="600px" src="./github-assets/chescript-1.png"></img><br/>
+    <img width="600px" src="./github-assets/chescript.png"></img><br/>
     <i>(<a href="https://bulbapedia.bulbagarden.net/wiki/Chespin_(Pok%C3%A9mon)">Chespin</a> + Script)</i><br/><br/>
     <b> Made for CSINTSY (T1, 2026-2027) - MCO2 Project </b><br/>
     <i>Authors:</i> <br/>
